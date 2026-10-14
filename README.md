@@ -1,4 +1,4 @@
-# CresMart Company Handbook
+# CresMarr Company Handbook
 
 **CresMart | Africa's Gateway to Global Trade**
 Data and analytics team, an initiative of Maths & Data.
