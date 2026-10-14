@@ -69,7 +69,7 @@ Detailed instructions for each person are in the README of their own repo.
 | Day | Meeting | Length |
 | --- | --- | --- |
 | Monday | Sprint planning | 30 min |
-| Sunday | Standup | Demo and retro | 60 min |
+| Sunday | Standup, Demo and retro | 60 min |
 
 - **Daily update:** one short written post each working day in GitHub Discussions (done, next, blockers).
 - **Weekly report:** a short written report each Friday, saved in the private `company-admin` repo.
