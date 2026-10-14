@@ -1,6 +1,6 @@
 # CresMarr Company Handbook
 
-**CresMart | Africa's Gateway to Global Trade**
+**CresMarr | Africa's Gateway to Global Trade**
 Data and analytics team, an initiative of Maths & Data.
 
 This handbook explains how our team works. Everything here applies to both team members. If something changes, we change it here through a pull request.
@@ -18,7 +18,7 @@ Shared repos: `data-platform` (database schema, data dictionary, loading scripts
 
 ## 2. The project
 
-**CresMart Delivery Performance and Delay Prediction.** We simulate a logistics business using the public Olist Brazilian E-Commerce dataset (about 100,000 orders, 2016 to 2018).
+**CresMarr Delivery Performance and Delay Prediction.** We simulate a logistics business using the public Olist Brazilian E-Commerce dataset (about 100,000 orders, 2016 to 2018).
 
 - The analytics team measures delivery performance and explains where and why deliveries are late.
 - The data science team predicts which orders will be late.
